@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 🎓 I'm currently pursuing a Bachelor of Science in Artificial Intelligence  
-🌍 Scholarship Recipient (Finland 🇫🇮)  
 💡 Passionate about building smart, data-driven solutions using AI  
 🧠 Interested in Machine Learning, Computer Vision, and AI Ethics  
 🧪 Currently working on ML & Python projects using scikit-learn, OpenCV, and Pandas
