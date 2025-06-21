@@ -40,13 +40,6 @@ Exploratory data analysis and visualizations in Jupyter Notebook
 
 ---
 
-### 🏅 Certifications
-
-📜 Python for Data Science – IBM  
-📜 Machine Learning – Andrew Ng (Coursera)  
-📜 AI Ethics – Google AI / edX  
-
----
 
 ### 🌐 Languages
 English (Professional) | Urdu (Native) | Pashto (Fluent)
